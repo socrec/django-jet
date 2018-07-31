@@ -4,7 +4,7 @@ Custom Dashboard
 
 .. note::
    Django JET Dashboard tries to be as compatible as possible with django-admin-tools dashboard so that
-   django-admin-tools modules could be easily ported to Django JET. In most cases in will be enough to
+   django-admin-tools modules could be easily ported to Django JET. In most cases it will be enough to
    change python imports and remove extending in modules templates.
 
 Dashboard represents ``Dashboard`` class instance with ``DashboardModule`` class instances as its children.
